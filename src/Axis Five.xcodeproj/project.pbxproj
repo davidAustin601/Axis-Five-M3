@@ -1,0 +1,666 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 54;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D007BF19266E7462008AFED8 /* SCSOptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D007BF18266E7462008AFED8 /* SCSOptionsView.swift */; };
+		D00E063629E31F010078DADC /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D00E063529E31F010078DADC /* Info.plist */; };
+		D01EB240266C228D0036E87F /* SCSIndividualView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EB23F266C228D0036E87F /* SCSIndividualView.swift */; };
+		D01EB242266C23D90036E87F /* SCS_Definitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EB241266C23D90036E87F /* SCS_Definitions.swift */; };
+		D01EB244266C28400036E87F /* PreferencesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EB243266C28400036E87F /* PreferencesView.swift */; };
+		D01EB247266C2C530036E87F /* PythonKit in Frameworks */ = {isa = PBXBuildFile; productRef = D01EB246266C2C530036E87F /* PythonKit */; };
+		D01EB249266C2E660036E87F /* MARPDailyLoggerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EB248266C2E660036E87F /* MARPDailyLoggerView.swift */; };
+		D01EB24C266C32580036E87F /* PythonKit_MARPToolbox.py in Resources */ = {isa = PBXBuildFile; fileRef = D01EB24B266C32580036E87F /* PythonKit_MARPToolbox.py */; };
+		D01EE3992669A9A5009F114A /* Axis_FiveApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EE3982669A9A5009F114A /* Axis_FiveApp.swift */; };
+		D01EE39D2669A9A7009F114A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D01EE39C2669A9A7009F114A /* Assets.xcassets */; };
+		D01EE3A02669A9A7009F114A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D01EE39F2669A9A7009F114A /* Preview Assets.xcassets */; };
+		D01EE3AD2669ACB1009F114A /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EE3AC2669ACB1009F114A /* MainView.swift */; };
+		D01EE3AF2669ACE9009F114A /* SideBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EE3AE2669ACE9009F114A /* SideBarView.swift */; };
+		D01EE3B52669AE14009F114A /* MARP_Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D01EE3B42669AE14009F114A /* MARP_Functions.swift */; };
+		D01FC06726712528007A1B23 /* INIParser in Frameworks */ = {isa = PBXBuildFile; productRef = D01FC06626712528007A1B23 /* INIParser */; };
+		D02BFBFF267A411700F0E67D /* SCSNotePreview.swift in Sources */ = {isa = PBXBuildFile; fileRef = D02BFBFE267A411700F0E67D /* SCSNotePreview.swift */; };
+		D02BFC01267A766D00F0E67D /* SCS_Functions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D02BFC00267A766D00F0E67D /* SCS_Functions.swift */; };
+		D0321A2E267CFBFA00809490 /* SCSInitialContactView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0321A2D267CFBFA00809490 /* SCSInitialContactView.swift */; };
+		D0321A30267D003B00809490 /* SCSGroupSessionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0321A2F267D003B00809490 /* SCSGroupSessionView.swift */; };
+		D0321A32267D046500809490 /* SCSIndividualTerminationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0321A31267D046500809490 /* SCSIndividualTerminationView.swift */; };
+		D03515E82677DD37009283EE /* PythonKit_MARPCallList.py in Resources */ = {isa = PBXBuildFile; fileRef = D03515E72677DD37009283EE /* PythonKit_MARPCallList.py */; };
+		D03515EA2677F043009283EE /* MARPCallListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D03515E92677F043009283EE /* MARPCallListView.swift */; };
+		D04CE9302A9683F100E00E91 /* SCSSupervisionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04CE92F2A9683F100E00E91 /* SCSSupervisionView.swift */; };
+		D04CE9322A96AF0C00E00E91 /* SCSSuperviseeManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04CE9312A96AF0C00E00E91 /* SCSSuperviseeManagementView.swift */; };
+		D04E584E26A5EAEE00C8E507 /* Helvetica Neue LT 95 Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D04E584C26A5EAEE00C8E507 /* Helvetica Neue LT 95 Black.ttf */; };
+		D04E585126A5EB8D00C8E507 /* GlobalDesignCode.swift in Sources */ = {isa = PBXBuildFile; fileRef = D04E585026A5EB8D00C8E507 /* GlobalDesignCode.swift */; };
+		D065571526700D8600D54525 /* Common_FileHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = D065571426700D8600D54525 /* Common_FileHandling.swift */; };
+		D082BA8426B07217000FA8D8 /* SDWebImageSwiftUI in Frameworks */ = {isa = PBXBuildFile; productRef = D082BA8326B07217000FA8D8 /* SDWebImageSwiftUI */; };
+		D099C08426B0A64A001BF6F5 /* GeometryGIF1.gif in Resources */ = {isa = PBXBuildFile; fileRef = D099C08226B0A64A001BF6F5 /* GeometryGIF1.gif */; };
+		D099C08826B0B403001BF6F5 /* GeometryGIF2.gif in Resources */ = {isa = PBXBuildFile; fileRef = D099C08726B0B403001BF6F5 /* GeometryGIF2.gif */; };
+		D0A3203426C846B600726553 /* NOTES.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0A3203326C846B600726553 /* NOTES.swift */; };
+		D0AA0DB7266EC698000346D8 /* Common_Preferences.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0AA0DB6266EC698000346D8 /* Common_Preferences.swift */; };
+		D0CC6D452673D9AC00F0395A /* SwiftCSV in Frameworks */ = {isa = PBXBuildFile; productRef = D0CC6D442673D9AC00F0395A /* SwiftCSV */; };
+		D0CC6D472673F48F00F0395A /* MARPMemberManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CC6D462673F48F00F0395A /* MARPMemberManagementView.swift */; };
+		D0CF54FD267BC9A700D1B019 /* SCSClientManagementView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CF54FC267BC9A700D1B019 /* SCSClientManagementView.swift */; };
+		D0CF54FF267BEEF000D1B019 /* SCSIntakeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0CF54FE267BEEF000D1B019 /* SCSIntakeView.swift */; };
+		D0D28262266AD4BC003B65F7 /* Common_Definitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0D28261266AD4BC003B65F7 /* Common_Definitions.swift */; };
+		D0E3AD392680DFDE0063B0D5 /* Common_WindowFunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0E3AD382680DFDE0063B0D5 /* Common_WindowFunctions.swift */; };
+		D0EAE6D226B5ED88008C4F2A /* AlertToast in Frameworks */ = {isa = PBXBuildFile; productRef = D0EAE6D126B5ED88008C4F2A /* AlertToast */; };
+		D0F0852826B302BA00A0E4A1 /* GeometryGIF3.gif in Resources */ = {isa = PBXBuildFile; fileRef = D0F0852726B302BA00A0E4A1 /* GeometryGIF3.gif */; };
+		D0F3FD3026A10B6500EFB7CA /* DynamicColor in Frameworks */ = {isa = PBXBuildFile; productRef = D0F3FD2F26A10B6500EFB7CA /* DynamicColor */; };
+		D0F963CD266D4119000BADDC /* MARPOptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0F963CC266D4119000BADDC /* MARPOptionsView.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D007BF18266E7462008AFED8 /* SCSOptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSOptionsView.swift; sourceTree = "<group>"; };
+		D00E063529E31F010078DADC /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "Axis Five/Info.plist"; sourceTree = "<group>"; };
+		D01EB23F266C228D0036E87F /* SCSIndividualView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSIndividualView.swift; sourceTree = "<group>"; };
+		D01EB241266C23D90036E87F /* SCS_Definitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCS_Definitions.swift; sourceTree = "<group>"; };
+		D01EB243266C28400036E87F /* PreferencesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreferencesView.swift; sourceTree = "<group>"; };
+		D01EB248266C2E660036E87F /* MARPDailyLoggerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MARPDailyLoggerView.swift; sourceTree = "<group>"; };
+		D01EB24B266C32580036E87F /* PythonKit_MARPToolbox.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PythonKit_MARPToolbox.py; sourceTree = "<group>"; };
+		D01EE3952669A9A5009F114A /* Axis Five.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Axis Five.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D01EE3982669A9A5009F114A /* Axis_FiveApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Axis_FiveApp.swift; sourceTree = "<group>"; };
+		D01EE39C2669A9A7009F114A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		D01EE39F2669A9A7009F114A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D01EE3AC2669ACB1009F114A /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		D01EE3AE2669ACE9009F114A /* SideBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SideBarView.swift; sourceTree = "<group>"; };
+		D01EE3B42669AE14009F114A /* MARP_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MARP_Functions.swift; sourceTree = "<group>"; };
+		D02BFBFE267A411700F0E67D /* SCSNotePreview.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSNotePreview.swift; sourceTree = "<group>"; };
+		D02BFC00267A766D00F0E67D /* SCS_Functions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCS_Functions.swift; sourceTree = "<group>"; };
+		D0321A2D267CFBFA00809490 /* SCSInitialContactView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSInitialContactView.swift; sourceTree = "<group>"; };
+		D0321A2F267D003B00809490 /* SCSGroupSessionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSGroupSessionView.swift; sourceTree = "<group>"; };
+		D0321A31267D046500809490 /* SCSIndividualTerminationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSIndividualTerminationView.swift; sourceTree = "<group>"; };
+		D03515E72677DD37009283EE /* PythonKit_MARPCallList.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = PythonKit_MARPCallList.py; sourceTree = "<group>"; };
+		D03515E92677F043009283EE /* MARPCallListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MARPCallListView.swift; sourceTree = "<group>"; };
+		D04CE92F2A9683F100E00E91 /* SCSSupervisionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SCSSupervisionView.swift; sourceTree = "<group>"; };
+		D04CE9312A96AF0C00E00E91 /* SCSSuperviseeManagementView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SCSSuperviseeManagementView.swift; sourceTree = "<group>"; };
+		D04E584C26A5EAEE00C8E507 /* Helvetica Neue LT 95 Black.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "Helvetica Neue LT 95 Black.ttf"; sourceTree = "<group>"; };
+		D04E585026A5EB8D00C8E507 /* GlobalDesignCode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlobalDesignCode.swift; sourceTree = "<group>"; };
+		D065571426700D8600D54525 /* Common_FileHandling.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common_FileHandling.swift; sourceTree = "<group>"; };
+		D099C08226B0A64A001BF6F5 /* GeometryGIF1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GeometryGIF1.gif; sourceTree = "<group>"; };
+		D099C08726B0B403001BF6F5 /* GeometryGIF2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GeometryGIF2.gif; sourceTree = "<group>"; };
+		D0A3203226C8466800726553 /* Axis Five.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "Axis Five.entitlements"; sourceTree = "<group>"; };
+		D0A3203326C846B600726553 /* NOTES.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NOTES.swift; sourceTree = "<group>"; };
+		D0AA0DB6266EC698000346D8 /* Common_Preferences.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common_Preferences.swift; sourceTree = "<group>"; };
+		D0CC6D462673F48F00F0395A /* MARPMemberManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MARPMemberManagementView.swift; sourceTree = "<group>"; };
+		D0CF54FC267BC9A700D1B019 /* SCSClientManagementView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSClientManagementView.swift; sourceTree = "<group>"; };
+		D0CF54FE267BEEF000D1B019 /* SCSIntakeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SCSIntakeView.swift; sourceTree = "<group>"; };
+		D0D28261266AD4BC003B65F7 /* Common_Definitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common_Definitions.swift; sourceTree = "<group>"; };
+		D0E3AD382680DFDE0063B0D5 /* Common_WindowFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Common_WindowFunctions.swift; sourceTree = "<group>"; };
+		D0F0852726B302BA00A0E4A1 /* GeometryGIF3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = GeometryGIF3.gif; sourceTree = "<group>"; };
+		D0F963CC266D4119000BADDC /* MARPOptionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MARPOptionsView.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D01EE3922669A9A5009F114A /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D082BA8426B07217000FA8D8 /* SDWebImageSwiftUI in Frameworks */,
+				D0F3FD3026A10B6500EFB7CA /* DynamicColor in Frameworks */,
+				D0CC6D452673D9AC00F0395A /* SwiftCSV in Frameworks */,
+				D0EAE6D226B5ED88008C4F2A /* AlertToast in Frameworks */,
+				D01EB247266C2C530036E87F /* PythonKit in Frameworks */,
+				D01FC06726712528007A1B23 /* INIParser in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D01EB24D266C35730036E87F /* Functions and Definitions */ = {
+			isa = PBXGroup;
+			children = (
+				D01EB241266C23D90036E87F /* SCS_Definitions.swift */,
+				D02BFC00267A766D00F0E67D /* SCS_Functions.swift */,
+			);
+			path = "Functions and Definitions";
+			sourceTree = "<group>";
+		};
+		D01EB24F266C358D0036E87F /* Functions */ = {
+			isa = PBXGroup;
+			children = (
+				D01EB24B266C32580036E87F /* PythonKit_MARPToolbox.py */,
+				D03515E72677DD37009283EE /* PythonKit_MARPCallList.py */,
+				D01EE3B42669AE14009F114A /* MARP_Functions.swift */,
+			);
+			path = Functions;
+			sourceTree = "<group>";
+		};
+		D01EE38C2669A9A5009F114A = {
+			isa = PBXGroup;
+			children = (
+				D00E063529E31F010078DADC /* Info.plist */,
+				D0A3203326C846B600726553 /* NOTES.swift */,
+				D01EE3972669A9A5009F114A /* Axis Five */,
+				D01EE3962669A9A5009F114A /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D01EE3962669A9A5009F114A /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D01EE3952669A9A5009F114A /* Axis Five.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D01EE3972669A9A5009F114A /* Axis Five */ = {
+			isa = PBXGroup;
+			children = (
+				D0A3203226C8466800726553 /* Axis Five.entitlements */,
+				D01EE3982669A9A5009F114A /* Axis_FiveApp.swift */,
+				D0F3FD2D26A10A2C00EFB7CA /* Global Designs */,
+				D01EE3AB2669AC5D009F114A /* Views */,
+				D01EE3AA2669AC46009F114A /* SCS Functionality */,
+				D01EE3A92669AC3B009F114A /* MARP Functionality */,
+				D01EE3B62669AE22009F114A /* Common Functionality */,
+				D01EE39C2669A9A7009F114A /* Assets.xcassets */,
+				D01EE39E2669A9A7009F114A /* Preview Content */,
+			);
+			path = "Axis Five";
+			sourceTree = "<group>";
+		};
+		D01EE39E2669A9A7009F114A /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				D01EE39F2669A9A7009F114A /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		D01EE3A92669AC3B009F114A /* MARP Functionality */ = {
+			isa = PBXGroup;
+			children = (
+				D01EB24F266C358D0036E87F /* Functions */,
+				D01EB248266C2E660036E87F /* MARPDailyLoggerView.swift */,
+				D0CC6D462673F48F00F0395A /* MARPMemberManagementView.swift */,
+				D03515E92677F043009283EE /* MARPCallListView.swift */,
+			);
+			path = "MARP Functionality";
+			sourceTree = "<group>";
+		};
+		D01EE3AA2669AC46009F114A /* SCS Functionality */ = {
+			isa = PBXGroup;
+			children = (
+				D01EB24D266C35730036E87F /* Functions and Definitions */,
+				D01EB23F266C228D0036E87F /* SCSIndividualView.swift */,
+				D02BFBFE267A411700F0E67D /* SCSNotePreview.swift */,
+				D0CF54FC267BC9A700D1B019 /* SCSClientManagementView.swift */,
+				D04CE9312A96AF0C00E00E91 /* SCSSuperviseeManagementView.swift */,
+				D0CF54FE267BEEF000D1B019 /* SCSIntakeView.swift */,
+				D0321A2D267CFBFA00809490 /* SCSInitialContactView.swift */,
+				D0321A2F267D003B00809490 /* SCSGroupSessionView.swift */,
+				D0321A31267D046500809490 /* SCSIndividualTerminationView.swift */,
+				D04CE92F2A9683F100E00E91 /* SCSSupervisionView.swift */,
+			);
+			path = "SCS Functionality";
+			sourceTree = "<group>";
+		};
+		D01EE3AB2669AC5D009F114A /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D01EE3AC2669ACB1009F114A /* MainView.swift */,
+				D01EE3AE2669ACE9009F114A /* SideBarView.swift */,
+				D0F963C9266D40C7000BADDC /* Preferences */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D01EE3B62669AE22009F114A /* Common Functionality */ = {
+			isa = PBXGroup;
+			children = (
+				D0D28261266AD4BC003B65F7 /* Common_Definitions.swift */,
+				D0AA0DB6266EC698000346D8 /* Common_Preferences.swift */,
+				D065571426700D8600D54525 /* Common_FileHandling.swift */,
+				D0E3AD382680DFDE0063B0D5 /* Common_WindowFunctions.swift */,
+			);
+			path = "Common Functionality";
+			sourceTree = "<group>";
+		};
+		D04E584B26A5EAC600C8E507 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				D04E584C26A5EAEE00C8E507 /* Helvetica Neue LT 95 Black.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		D0A027C326AB2CF30005FB52 /* Gifs */ = {
+			isa = PBXGroup;
+			children = (
+				D0F0852726B302BA00A0E4A1 /* GeometryGIF3.gif */,
+				D099C08726B0B403001BF6F5 /* GeometryGIF2.gif */,
+				D099C08226B0A64A001BF6F5 /* GeometryGIF1.gif */,
+			);
+			path = Gifs;
+			sourceTree = "<group>";
+		};
+		D0F3FD2D26A10A2C00EFB7CA /* Global Designs */ = {
+			isa = PBXGroup;
+			children = (
+				D0A027C326AB2CF30005FB52 /* Gifs */,
+				D04E584B26A5EAC600C8E507 /* Fonts */,
+				D04E585026A5EB8D00C8E507 /* GlobalDesignCode.swift */,
+			);
+			path = "Global Designs";
+			sourceTree = "<group>";
+		};
+		D0F963C9266D40C7000BADDC /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				D01EB243266C28400036E87F /* PreferencesView.swift */,
+				D0F963CC266D4119000BADDC /* MARPOptionsView.swift */,
+				D007BF18266E7462008AFED8 /* SCSOptionsView.swift */,
+			);
+			path = Preferences;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D01EE3942669A9A5009F114A /* Axis Five */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D01EE3A52669A9A7009F114A /* Build configuration list for PBXNativeTarget "Axis Five" */;
+			buildPhases = (
+				D01EE3912669A9A5009F114A /* Sources */,
+				D01EE3922669A9A5009F114A /* Frameworks */,
+				D01EE3932669A9A5009F114A /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Axis Five";
+			packageProductDependencies = (
+				D01EB246266C2C530036E87F /* PythonKit */,
+				D01FC06626712528007A1B23 /* INIParser */,
+				D0CC6D442673D9AC00F0395A /* SwiftCSV */,
+				D0F3FD2F26A10B6500EFB7CA /* DynamicColor */,
+				D082BA8326B07217000FA8D8 /* SDWebImageSwiftUI */,
+				D0EAE6D126B5ED88008C4F2A /* AlertToast */,
+			);
+			productName = "Baby Driver";
+			productReference = D01EE3952669A9A5009F114A /* Axis Five.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D01EE38D2669A9A5009F114A /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1250;
+				LastUpgradeCheck = 1250;
+				TargetAttributes = {
+					D01EE3942669A9A5009F114A = {
+						CreatedOnToolsVersion = 12.5;
+					};
+				};
+			};
+			buildConfigurationList = D01EE3902669A9A5009F114A /* Build configuration list for PBXProject "Axis Five" */;
+			compatibilityVersion = "Xcode 12.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = D01EE38C2669A9A5009F114A;
+			packageReferences = (
+				D01EB245266C2C530036E87F /* XCRemoteSwiftPackageReference "PythonKit" */,
+				D01FC06526712528007A1B23 /* XCRemoteSwiftPackageReference "Perfect-INIParser" */,
+				D0CC6D432673D9AC00F0395A /* XCRemoteSwiftPackageReference "SwiftCSV" */,
+				D0F3FD2E26A10B6500EFB7CA /* XCRemoteSwiftPackageReference "DynamicColor" */,
+				D082BA8226B07217000FA8D8 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */,
+				D0EAE6D026B5ED88008C4F2A /* XCRemoteSwiftPackageReference "AlertToast" */,
+			);
+			productRefGroup = D01EE3962669A9A5009F114A /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D01EE3942669A9A5009F114A /* Axis Five */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D01EE3932669A9A5009F114A /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D099C08426B0A64A001BF6F5 /* GeometryGIF1.gif in Resources */,
+				D0F0852826B302BA00A0E4A1 /* GeometryGIF3.gif in Resources */,
+				D00E063629E31F010078DADC /* Info.plist in Resources */,
+				D099C08826B0B403001BF6F5 /* GeometryGIF2.gif in Resources */,
+				D01EE3A02669A9A7009F114A /* Preview Assets.xcassets in Resources */,
+				D01EE39D2669A9A7009F114A /* Assets.xcassets in Resources */,
+				D03515E82677DD37009283EE /* PythonKit_MARPCallList.py in Resources */,
+				D01EB24C266C32580036E87F /* PythonKit_MARPToolbox.py in Resources */,
+				D04E584E26A5EAEE00C8E507 /* Helvetica Neue LT 95 Black.ttf in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D01EE3912669A9A5009F114A /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D007BF19266E7462008AFED8 /* SCSOptionsView.swift in Sources */,
+				D0E3AD392680DFDE0063B0D5 /* Common_WindowFunctions.swift in Sources */,
+				D04CE9302A9683F100E00E91 /* SCSSupervisionView.swift in Sources */,
+				D01EB244266C28400036E87F /* PreferencesView.swift in Sources */,
+				D03515EA2677F043009283EE /* MARPCallListView.swift in Sources */,
+				D01EB242266C23D90036E87F /* SCS_Definitions.swift in Sources */,
+				D0321A32267D046500809490 /* SCSIndividualTerminationView.swift in Sources */,
+				D01EB240266C228D0036E87F /* SCSIndividualView.swift in Sources */,
+				D0D28262266AD4BC003B65F7 /* Common_Definitions.swift in Sources */,
+				D065571526700D8600D54525 /* Common_FileHandling.swift in Sources */,
+				D0A3203426C846B600726553 /* NOTES.swift in Sources */,
+				D0CF54FD267BC9A700D1B019 /* SCSClientManagementView.swift in Sources */,
+				D02BFBFF267A411700F0E67D /* SCSNotePreview.swift in Sources */,
+				D01EE3AF2669ACE9009F114A /* SideBarView.swift in Sources */,
+				D04E585126A5EB8D00C8E507 /* GlobalDesignCode.swift in Sources */,
+				D01EB249266C2E660036E87F /* MARPDailyLoggerView.swift in Sources */,
+				D0CC6D472673F48F00F0395A /* MARPMemberManagementView.swift in Sources */,
+				D04CE9322A96AF0C00E00E91 /* SCSSuperviseeManagementView.swift in Sources */,
+				D0AA0DB7266EC698000346D8 /* Common_Preferences.swift in Sources */,
+				D02BFC01267A766D00F0E67D /* SCS_Functions.swift in Sources */,
+				D0F963CD266D4119000BADDC /* MARPOptionsView.swift in Sources */,
+				D01EE3AD2669ACB1009F114A /* MainView.swift in Sources */,
+				D0321A30267D003B00809490 /* SCSGroupSessionView.swift in Sources */,
+				D0CF54FF267BEEF000D1B019 /* SCSIntakeView.swift in Sources */,
+				D01EE3B52669AE14009F114A /* MARP_Functions.swift in Sources */,
+				D0321A2E267CFBFA00809490 /* SCSInitialContactView.swift in Sources */,
+				D01EE3992669A9A5009F114A /* Axis_FiveApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		D01EE3A32669A9A7009F114A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		D01EE3A42669A9A7009F114A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				"CURRENT_PROJECT_VERSION[sdk=*]" = 2.3;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 11.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+			};
+			name = Release;
+		};
+		D01EE3A62669A9A7009F114A /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Axis Five/Axis Five.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1.3;
+				DEVELOPMENT_ASSET_PATHS = "\"Axis Five/Preview Content\"";
+				DEVELOPMENT_TEAM = 5SFXRFS6C4;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Axis Five/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.3;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.davidAustin.Axis-Five";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Debug;
+		};
+		D01EE3A72669A9A7009F114A /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_ENTITLEMENTS = "Axis Five/Axis Five.entitlements";
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
+				COMBINE_HIDPI_IMAGES = YES;
+				CURRENT_PROJECT_VERSION = 1.3;
+				DEVELOPMENT_ASSET_PATHS = "\"Axis Five/Preview Content\"";
+				DEVELOPMENT_TEAM = 5SFXRFS6C4;
+				ENABLE_HARDENED_RUNTIME = YES;
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = "Axis Five/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/../Frameworks",
+				);
+				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MARKETING_VERSION = 1.3;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.davidAustin.Axis-Five";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE_SPECIFIER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 5.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D01EE3902669A9A5009F114A /* Build configuration list for PBXProject "Axis Five" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D01EE3A32669A9A7009F114A /* Debug */,
+				D01EE3A42669A9A7009F114A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D01EE3A52669A9A7009F114A /* Build configuration list for PBXNativeTarget "Axis Five" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D01EE3A62669A9A7009F114A /* Debug */,
+				D01EE3A72669A9A7009F114A /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		D01EB245266C2C530036E87F /* XCRemoteSwiftPackageReference "PythonKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/pvieito/PythonKit.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		D01FC06526712528007A1B23 /* XCRemoteSwiftPackageReference "Perfect-INIParser" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/PerfectlySoft/Perfect-INIParser.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.0.0;
+			};
+		};
+		D082BA8226B07217000FA8D8 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImageSwiftUI.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.2;
+			};
+		};
+		D0CC6D432673D9AC00F0395A /* XCRemoteSwiftPackageReference "SwiftCSV" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/swiftcsv/SwiftCSV";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 0.6.0;
+			};
+		};
+		D0EAE6D026B5ED88008C4F2A /* XCRemoteSwiftPackageReference "AlertToast" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/elai950/AlertToast.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.3.0;
+			};
+		};
+		D0F3FD2E26A10B6500EFB7CA /* XCRemoteSwiftPackageReference "DynamicColor" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/yannickl/DynamicColor.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.0.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		D01EB246266C2C530036E87F /* PythonKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D01EB245266C2C530036E87F /* XCRemoteSwiftPackageReference "PythonKit" */;
+			productName = PythonKit;
+		};
+		D01FC06626712528007A1B23 /* INIParser */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D01FC06526712528007A1B23 /* XCRemoteSwiftPackageReference "Perfect-INIParser" */;
+			productName = INIParser;
+		};
+		D082BA8326B07217000FA8D8 /* SDWebImageSwiftUI */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D082BA8226B07217000FA8D8 /* XCRemoteSwiftPackageReference "SDWebImageSwiftUI" */;
+			productName = SDWebImageSwiftUI;
+		};
+		D0CC6D442673D9AC00F0395A /* SwiftCSV */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D0CC6D432673D9AC00F0395A /* XCRemoteSwiftPackageReference "SwiftCSV" */;
+			productName = SwiftCSV;
+		};
+		D0EAE6D126B5ED88008C4F2A /* AlertToast */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D0EAE6D026B5ED88008C4F2A /* XCRemoteSwiftPackageReference "AlertToast" */;
+			productName = AlertToast;
+		};
+		D0F3FD2F26A10B6500EFB7CA /* DynamicColor */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = D0F3FD2E26A10B6500EFB7CA /* XCRemoteSwiftPackageReference "DynamicColor" */;
+			productName = DynamicColor;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = D01EE38D2669A9A5009F114A /* Project object */;
+}

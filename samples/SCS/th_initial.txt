@@ -1,0 +1,58 @@
+Telehealth Initial Appointment Note
+
+Confirmed identity of the client (via student ID): _____Confirmed________
+
+Physical address (must be physically present in Mississippi) : ___{CurrentAddress}_______
+
+Phone number where the client can be reached if you were to get disconnected:  ___{BackupPhone}______
+
+Privacy of the client’s meeting space: _____Private______
+
+Emergency Contact Name: ______{EmergencyName}________
+
+Emergency Contact Number: ___{EmergencyPhone}_______
+
+
+1.  REFERRAL SOURCE AND REASON FOR REFERRAL (INCLUDING FRIEND, PARENT, INSTRUCTOR, RESIDENT ASSISTANT, ETC.): 
+
+{Referral}
+
+2.  PRESENTING PROBLEM (INCLUDING PRECIPITATING EVENTS, BEHAVIORS, SYMPTOMS, AND LIKELIHOOD OF IMPAIRMENT):  
+
+Client reported to Student Counseling Services to complete a intake appointment due to {MainProblems}. The client also acknowledged additional concerns including but not limited to the following: {SecondaryProblems - minimum 3}. Finally, {Pronoun} reported {EatSleepProblems}.
+
+3.  PAST/PRESENT HISTORY OF SUICIDAL, HOMICIDAL IDEATION AND/OR ATTEMPTS; VIOLENT OR SELF-INJURIOUS BEHAVIOR:
+
+This individual informed the clinician that {Pronoun} has {SIandHistory}, {Pronoun} has {HI} homicidal ideation, and reported {SelfInjuryandHistory}. Despite {PPossessive} presenting concerns, the client was not an immediate threat to {PReflexive} or others at the time of this initial appointment. {(Opt)AdditionalBehavioralComment}
+
+         *HOSPITALIZATION INDICATED: ____ YES   __X__NO
+           (If yes, describe):
+
+4.  HISTORY OF ABUSE AND/OR  TRAUMA (INCLUDING PERPETRATORS, OTHER VICTIMS, ANY NEED TO FILE A DHS REPORT, ETC.): 
+
+When questioned about a potential history of abuse, the client reported {AbuseAndType}. {(Opt)AdditionalAbuseComment} With regard to traumatic experiences during {PPossessive} life, {Pronoun} reported {Trauma}. {(Opt)AdditionalTraumaComment}
+
+5.  ALCOHOL AND SUBSTANCE USE HISTORY (INCLUDING PRESENT AND PAST USE):
+
+This individual reported {AlcoholFrequency}. {Pronoun} also reported {SubstanceFrequency} use of {SubstanceList}. {(Opt)AdditionalSubComment}
+
+6.  EDUCATION/EMPLOYMENT/LEGAL ISSUES:
+
+Client is currently a {Grade} at Mississippi State University studying {Major} which {Pronoun} enjoys {MajorSatisfaction}. Client is currently {EmploymentStatusAndSatisfaction}.
+
+7.  OTHER (SPECIFY):
+
+{OtherRelevantData}
+
+8. CASE CONCEPTUALIZATION AND RECOMMENDATIONS:
+
+Client is a {Demo} who is currently a {Grade} at Mississippi State University and who also has the major of {Major} which {Pronoun} is {MajorSatisfaction} passionate about. Client reported to Student Counseling Services to complete an initial appointment due to {MainProblems}. This individual informed the clinician that {Pronoun} has {SIandHistory}, {Pronoun} has {HI} homicidal ideation, and reported {SelfInjuryandHistory} self-injurious behaviors. The client was not an immediate threat {PReflexive} or others at the time of this initial appointment. 
+
+9.  REFERRAL(S):
+
+{OutsideReferral}
+
+10. Plan:
+
+{Plan} Finally, the client was informed of crisis resources available to {ThirdPersonPronoun} both during and after business hours.
+

@@ -1,0 +1,80 @@
+INTAKE FORM: 				
+
+_X___INFORMED CONSENT 
+
+_X___CCAPS
+          
+____TRAINING STATUS (IF APPLICABLE)       		
+		
+1.  REFERRAL SOURCE (INCLUDING FRIEND, PARENT, INSTRUCTOR, RESIDENT ASSISTANT, ETC.): 
+	
+{1Referral}
+
+2.  IDENTIFYING INFORMATION (INCLUDING ALL DEMOGRAPHICS, COLLEGE MAJOR, LIVING SITUATION, ETC.): 
+
+Client is a {2Demo} who is currently a {2Grade} at Mississippi State University and is majoring in {2Major} which {Pronoun} enjoys {2MajorSatisfaction-"significantly"}. {CapPronoun} is living {2OnOffCampus} with {2NumRoommates} roommates and describes {Ppossessive - "his"} living situation as {2HomeSatisfaction}.
+
+3.  PRESENTING PROBLEM (INCLUDING HISTORY OF SYMPTOMS, ONSET, DURATION, FREQUENCY, INTENSITY, ETC.): 
+
+Client reported to Student Counseling Services to complete an intake appointment due to {3MainProblems}. The client also acknowledged additional concerns including but not limited to the following: {3SecondaryProblems - minimum 3}. Finally, {Pronoun} reported {3EatSleepProblems}.
+
+4.  CHILDHOOD DEVELOPMENT (INCLUDING PRENATAL OR POSTNATAL COMPLICATIONS, HEALTH DURING INFANCY, DEVELOPMENTAL MILESTONES, ETC.): 
+
+This individual reported childhood development concerns in {4DevelopConcernAreas}. {4(Opt)AdditionalDevComment}
+
+5.  FAMILY BACKGROUND (INCLUDING BIRTHPLACE, MARRIED OR DIVORCED PARENTS, ANY SIBLINGS, OTHER FAMILY MEMBERS IN HOUSEHOLD, QUALITY OF RELATIONSHIPS WITH FAMILY, ETC.): 
+
+Client was raised in {5RaisedIn} primarily by {Ppossessive - "his"} {5RaisedBy}. {CapPronoun} reported that {Ppossessive - "his"} biological parents are currently {5ParentsMarried - "not married"} and reported that {Pronoun} has {5NumSiblings} siblings. Finally, {Pronoun} described {Ppossessive - "his"} relationship with {Ppossessive - "his"} family as {5FamilyClientRelationships}.
+
+6.  CULTURAL FACTORS (INCLUDING ETHNICITY, DISABILITY, SEXUAL ORIENTATION, SPIRITUALITY, VETERAN STATUS, ETC.): 
+
+Client is a {2Demo} who reported having {6Disabilities} disabilities and is of {6VeteranStatus - "no"} veteran status. Additionally, {Pronoun} described religion as having a {6ReligionImportance} importance in {Ppossessive - "his"} life.
+
+7.  SOCIAL SYSTEM (INCLUDING FRIENDSHIPS, ROOMMATES, DATING RELATIONSHIPS, SIGNIFICANT OTHERS, ETC.): 
+
+Client reported {7LevelSocialSupport} social support at this time. {7(Opt)AdditionalSSComment} {CapPronoun} described {Ppossessive - "his"} family as being {7LevelFamilySupport - "somewhat"} supportive. Currently, {Pronoun} has {2NumRoommates} roommates. Lastly, {Pronoun} is currently {7RelationshipStatusAndQuality - "not in a relation / in a positive relationship that is"}.
+
+8.  ABUSE/TRAUMA HISTORY (INCLUDING DATES, PERPETRATORS, OTHER VICTIMS, ANY NEED TO FILE A DHS REPORT, ETC.): 
+
+When questioned about a potential history of abuse, the client reported {8AbuseAndType}. {8(Opt)AdditionalAbuseComment} With regard to traumatic experiences during {Ppossessive - "his"} life, {Pronoun} reported {8Trauma - "experiencing a house fire"}. {8(Opt)AdditionalTraumaComment}
+
+9.  EDUCATION AND EMPLOYMENT HISTORY (INCLUDING PRESENT AND PAST GRADES, ANY JOBS, VOLUNTEER WORK, ETC.): 
+
+Client is currently a {2Grade} at Mississippi State University studying {2Major} which {Pronoun} enjoys {2MajorSatisfaction-"significantly"}. Client is currently {9EmploymentStatusAndSatisfaction}.
+
+10. MEDICAL HISTORY AND MEDICATIONS (INCLUDING ANY PHYSICAL CONDITIONS, PRESCRIPTIONS, ACCIDENTS OR INJURIES, ETC.): 
+
+This individual is currently taking {10Medications}. {CapPronoun} reported {10Conditions - "no physical conditions"} and, when speaking about potential accidents / injuries, {Pronoun} reported {10AccidentInjury - "none"}.
+
+11. ALCOHOL AND SUBSTANCE HISTORY (INCLUDING PRESENT AND PAST USE, HISTORY OF RECOVERY OR TREATMENT, ETC.): 
+
+This individual reported {11AlcoholFrequency - " drinking alcohol approximately 1-2 times a week with 2 drinks per sitting"}. {CapPronoun} also reported {11SubstanceFrequency} use of {11SubstanceList}. {11(Opt)AdditionalSubComment}
+
+12. MENTAL HEALTH HISTORY (INCLUDING PREVIOUS TREATMENT, HOSPITALIZATIONS, ANY FAMILY HISTORY OF MENTAL ILLNESS, ETC.): 
+
+Client reported {12CounselingHistory - "previous counseling at SCS"}, reported {12HospitalHistory} history of hospitalizations due to a mental health concern, and also reported a family history of {12FamilyHistory - "no known mental health concerns"}.
+
+13. BEHAVIORAL OBSERVATIONS AND MENTAL STATUS* (INCLUDING RISK ASSESSMENT, SUICIDAL OR HOMICIDAL IDEATION, HISTORY OF SELF-INJURIOUS OR OTHER VIOLENT BEHAVIOR, ANY NOTABLE BEHAVIORS IN SESSIONS, ETC.): 
+
+This individual informed the clinician that {Pronoun} has {13SIandHistory - "has no current or past history of suicidal ideation with no plan or intent at any time"}, {Pronoun} has {13HI} homicidal ideation, and reported {13SelfInjuryandHistory -"no current or history of self-injurious behaviors"}. Despite {Ppossessive - "his"} presenting concerns, the client was not an immediate threat to {PReflexive - "himself"} or others at the time of this intake appointment. {13(Opt)AdditionalBehavioralComment}
+
+14. PERSONAL STRENGTHS AND INTERESTS (INCLUDING POSITIVE ATTRIBUTES, IDEALS OR VALUES, PROTECTIVE FACTORS, SELF-CARE STRATEGIES, HOBBIES, SUPPORT SYSTEMS, FUTURE LIFE GOALS, ETC.): 
+
+Client reported that {Pronoun} is {14PersonalStrengths - "determined and"} Coping strategies this client reported using included {14CopingStrategies}.
+
+15. OTHER RELEVANT DATA (INCLUDING LEGAL HISTORY, SEXUAL HISTORY, ETC.): 
+
+{15OtherRelevantData}
+
+16. CLINICAL SUMMARY AND DISPOSITION (INCLUDING DIAGNOSTIC FORMULATION, TREATMENT PLAN, RECOMMENDATIONS, REFERRALS, PROVISION OF CRISIS HOTLINE, ETC.): 
+
+Client is a {2Demo} who is currently a {2Grade} at Mississippi State University and who also has the major of {2Major} which {Pronoun} is {2MajorSatisfaction-"significantly"} passionate about. Client reported to Student Counseling Services to complete an intake appointment due to {3MainProblems}. This individual informed the clinician that {Pronoun} has {13SIandHistory - "has no current or past history of suicidal ideation with no plan or intent at any time"}, {Pronoun} has {13HI} homicidal ideation, and reported {13SelfInjuryandHistory -"no current or history of self-injurious behaviors"} self-injurious behaviors. The client was not an immediate threat {PReflexive - "himself"} or others at the time of this intake appointment. {Pronoun} expressed interest in receiving {16ServicesDesired} and has scheduled an appointment for {16NextAppointment}. Finally, the client was informed of crisis resources available to {ThirdPersonPronoun - "him"} both during and after business hours.
+
+
+*FOR MENTAL STATUS, SEE "OBJECTIVE" CHECKLIST IN DATA FORMS
+
+
+		
+
+
+

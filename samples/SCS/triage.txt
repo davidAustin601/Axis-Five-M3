@@ -1,0 +1,62 @@
+TRIAGE FORM
+
+__X__INFORMED CONSENT
+
+__X__CCAPS
+        
+____TRAINING STATUS (IF APPLICABLE)       
+
+
+1.  REFERRAL SOURCE AND REASON FOR REFERRAL (INCLUDING FRIEND, PARENT, INSTRUCTOR, RESIDENT ASSISTANT, ETC.): 
+
+{1Referral}
+
+2.  PRESENTING PROBLEM (INCLUDING PRECIPITATING EVENTS, BEHAVIORS, SYMPTOMS, AND LIKELIHOOD OF IMPAIRMENT):  
+
+Client reported to Student Counseling Services to complete an triage appointment due to {2MainProblems}. The client also acknowledged additional concerns including but not limited to the following: {2SecondaryProblems - minimum 3}. Finally, {Pronoun} reported {2EatSleepProblems}.
+
+3.  PAST/PRESENT HISTORY OF SUICIDAL, HOMICIDAL IDEATION AND/OR ATTEMPTS; VIOLENT OR SELF-INJURIOUS BEHAVIOR:
+
+This individual informed the clinician that {Pronoun} has {3SIandHistory - "has no current or past history of suicidal ideation with no plan or intent at any time"}, {Pronoun} has {3HI} homicidal ideation, and reported {3SelfInjuryandHistory -"no current or history of self-injurious behaviors"}. Despite {PPossessive} presenting concerns, the client was not an immediate threat to {PReflexive} or others at the time of this triage appointment. {3(Opt)AdditionalBehavioralComment}
+
+         *HOSPITALIZATION INDICATED: ____ YES   __X__NO
+           (If yes, describe):
+
+4.  HISTORY OF ABUSE AND/OR  TRAUMA (INCLUDING PERPETRATORS, OTHER VICTIMS, ANY NEED TO FILE A DHS REPORT, ETC.): 
+
+When questioned about a potential history of abuse, the client reported {4AbuseAndType}. {4(Opt)AdditionalAbuseComment} With regard to traumatic experiences during {PPossessive} life, {Pronoun} reported {4Trauma - "experiencing a house fire"}. {4(Opt)AdditionalTraumaComment}
+
+5.  ALCOHOL AND SUBSTANCE USE HISTORY (INCLUDING PRESENT AND PAST USE):
+
+This individual reported {5AlcoholFrequency - " drinking alcohol approximately 1-2 times a week with 2 drinks per sitting"}. {Pronoun} also reported {5SubstanceFrequency} use of {5SubstanceList}. {5(Opt)AdditionalSubComment}
+
+6.  EDUCATION/EMPLOYMENT/LEGAL ISSUES:
+
+Client is currently a {6Grade} at Mississippi State University studying {6Major} which {Pronoun} enjoys {6MajorSatisfaction-"significantly"}. Client is currently {6EmploymentStatusAndSatisfaction}.
+
+7.  OTHER (SPECIFY):
+
+{7OtherRelevantData}
+
+8. CASE CONCEPTUALIZATION AND RECOMMENDATIONS:
+
+Client is a {8Demo} who is currently a {6Grade} at Mississippi State University and who also has the major of {6Major} which {Pronoun} is {6MajorSatisfaction-"significantly"} passionate about. Client reported to Student Counseling Services to complete an triage appointment due to {2MainProblems}. This individual informed the clinician that {Pronoun} has {3SIandHistory - "has no current or past history of suicidal ideation with no plan or intent at any time"}, {Pronoun} has {3HI} homicidal ideation, and reported {3SelfInjuryandHistory -"no current or history of self-injurious behaviors"} self-injurious behaviors. The client was not an immediate threat {PReflexive} or others at the time of this triage appointment. {Pronoun} expressed interest in receiving {8ServicesDesired} and has scheduled an appointment for {8NextAppointment}. Finally, the client was informed of crisis resources available to {ThirdPersonPronoun} both during and after business hours.
+
+9.  REFERRAL(S) (SELECT ANY THAT APPLY): 
+                 
+                _____Longest Student Health Center:
+ 
+	____Dean of Students:
+
+	____Advocacy:
+ 
+	____Psychology Clinic: 
+ 
+	____ Other: 
+
+	____ Off-campus referral(s): 
+	
+                __X__ No referral 
+
+
+ *FOR MENTAL STATUS, SEE “OBJECTIVE” CHECKLIST IN DATA FORMS

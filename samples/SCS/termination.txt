@@ -1,0 +1,32 @@
+TERMINATION SUMMARY
+
+Intake Date: {IntakeDate}        Last Service Date: {LastServiceDate}
+
+Service Provider Names(s): Christopher Austin, NCC LPC
+
+Services Provided: (Check all that apply by entering a number)
+
+Total No. of Sessions:      ___{NumSessions}___
+Triage                                   ___{NumTriage}___
+Intake:                                   ___{NumIntake}___
+Individual Therapy:             ___{NumIndividual}___
+Advocacy                              ___{NumAdvocacy}___
+Other (e.g., crisis):             ___{NumOther}___
+
+PRESENTING PROBLEM:
+
+{PresentingProb}
+
+DIAGNOSIS AT INTAKE:
+
+{DiagnosisIntake}
+
+TREATMENT SUMMARY: (Describe treatment course, progress, challenges)
+
+Client met with {PPossessive} therapist for a total of {NumIndividual} session(s). During this therapeutic relationship, the client and clinician addressed topics including but not limited to the following: {TopicsCovered}. This individual appeared to improve in {PPossessive} {Improved}, however, {Pronoun} may need continued work in {NeedsWork}. Overall, this therapeutic relationship appeared productive and {Pronoun} seemed to benefit from attending.
+
+RECOMMENDATIONS:
+
+The client was informed that {Pronoun} may return at a later date to receive additional and / or alternative service should {Pronoun} feel the need or desire to do so as long as {Pronoun} is an active student. Finally, {Pronoun} was reminded of crisis resources available both during and after business hours.
+
+DISCHARGE DIAGNOSIS (enter diagnosis tab)

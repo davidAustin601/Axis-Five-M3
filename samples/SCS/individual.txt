@@ -1,0 +1,13 @@
+Psychotherapy Progress Note
+
+Subjective:  
+
+Client met with {PPossessive - "His"} therapist today to complete their {NumSession} session of the semester. During this meeting, the client and clinician spoke on topics including but not limited to the following: {Topics}. Furthermore, the two worked on {OtherWorked}. 
+
+Objective:   (Complete the Objective Form and the CGI Form located in the Data Forms)
+
+Assessment: 
+
+Client was {MoodOrAgreeable} throughout the session and {PPossessive - "His"} affect was {Affect}. It appears as though {Pronoun} has improved in {Improved} but still may need to work on {NeedsWork}. Regardless, {Pronoun} was an active member in the discussions and appeared motivated. During the next meeting, the client and clinician will attempt to work on {WorkNext}.
+
+Plan:  Individual therapy to continue {NextSession}. Homework given to {PPossessive - "His"} included {Homework}.

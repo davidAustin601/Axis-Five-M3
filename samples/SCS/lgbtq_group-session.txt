@@ -1,0 +1,23 @@
+GROUP NOTE
+
+Name of Group: {GroupName}
+
+Session #: {GroupNumSession}
+
+Name of Group Facilitator(s): {GroupLeaders}
+
+Number of Members present: {GroupNumPresent}
+
+GROUP SESSION SUMMARY:
+
+{GroupSessionSummary}
+
+PARTICIPANT SUMMARY:
+
+Client attended today's meeting and was an active member throughout the group discussions. 
+
+Objective: (SEE DATA FORM)
+
+PLAN:
+
+Client will attend next week's group which will occur on {GroupNextMeeting}.

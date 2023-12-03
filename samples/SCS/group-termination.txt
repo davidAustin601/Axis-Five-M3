@@ -1,0 +1,22 @@
+GROUP TERMINATION SUMMARY
+
+
+Group Screening Date: {ScreenDate}               Last Service Date: {LastService}
+
+
+Name of Group: {GroupName}
+
+
+Group Leader Names(s): {Leaders}
+
+
+Total No. of attended group sessions:      _{NumAttended}_ of _{TotalNum}_
+
+
+TREATMENT SUMMARY: (Describe treatment course, progress, challenges)
+
+{Summary} 
+
+RECOMMENDATIONS:
+
+{Recommendation}
